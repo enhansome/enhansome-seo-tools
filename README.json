@@ -1,0 +1,667 @@
+{
+  "items": [
+    {
+      "description": "不想依赖昂贵的商业软件？这里有一些优秀的开源替代品。",
+      "items": [],
+      "title": "🐧 开源与自托管替代方案 (Open Source / Self-Hosted)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Odoo",
+          "description": "拥有强大的网站构建器模块，生成代码结构清晰，利于 SEO。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:28:07Z",
+            "owner": "odoo",
+            "repo": "odoo",
+            "stars": 53679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext",
+          "description": "全功能开源 ERP，内置对 SEO 友好的建站模块（Sitemap/Meta 标签控制）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:23:12Z",
+            "owner": "frappe",
+            "repo": "erpnext",
+            "stars": 38002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuiteCRM",
+          "description": "高度可定制的开源 CRM，适合管理 SEO 客户和外链建设流程。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T13:37:50Z",
+            "owner": "SuiteCRM",
+            "repo": "SuiteCRM",
+            "stars": 5650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EspoCRM",
+          "description": "轻量快速，适合代理商管理潜在客户和与 SEO 相关的项目。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T11:58:01Z",
+            "owner": "espocrm",
+            "repo": "espocrm",
+            "stars": 3223
+          }
+        }
+      ],
+      "title": "CRM & ERP for SEO"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache Superset",
+          "description": "企业级 BI 工具，适合搭建跨渠道的 SEO 与营销数据看板。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:14:11Z",
+            "owner": "apache",
+            "repo": "superset",
+            "stars": 74247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mautic",
+          "description": "世界著名的开源营销自动化平台，内置邮件与着陆页的效果追踪。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T13:43:54Z",
+            "owner": "mautic",
+            "repo": "mautic",
+            "stars": 10322
+          }
+        }
+      ],
+      "title": "营销效果监控 (Marketing Monitoring)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NocoDB",
+          "description": "将 MySQL/PostgreSQL 转化为智能电子表格，自托管的 Airtable 替代品。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:20:48Z",
+            "owner": "nocodb",
+            "repo": "nocodb",
+            "stars": 64511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Formbricks",
+          "description": "开源的 Qualtrics 替代品，适合产品体验管理和应用内微调查。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:27:45Z",
+            "owner": "formbricks",
+            "repo": "formbricks",
+            "stars": 12765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typebot",
+          "description": "强大的可视化对话式表单构建器，适合营销获客。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T10:59:07Z",
+            "owner": "baptisteArno",
+            "repo": "typebot.io",
+            "stars": 10254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baserow",
+          "description": "开源无代码数据库，界面友好，扩展性强。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:54:51Z",
+            "owner": "baserow",
+            "repo": "baserow",
+            "stars": 5585
+          }
+        }
+      ],
+      "title": "调研与多维表格 (Survey & Multidimensional Databases)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chatwoot",
+          "description": "开源客户互动套件，Intercom/Zendesk 的替代品。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T04:22:29Z",
+            "owner": "chatwoot",
+            "repo": "chatwoot",
+            "stars": 35772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VICIdial",
+          "description": "全球最流行的开源联络中心解决方案，支持预测式外呼。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-04-12T06:21:11Z",
+            "owner": "vicidial",
+            "repo": "vicidial",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GOautodial",
+          "description": "基于 VICIdial 的现代化全渠道联络中心套件，界面更友好。",
+          "children": []
+        }
+      ],
+      "title": "企业服务与呼叫中心 (Enterprise SaaS & Call Center)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hotel: QloApps",
+          "description": "热门的开源酒店预订与管理系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T06:59:32Z",
+            "owner": "Qloapps",
+            "repo": "QloApps",
+            "stars": 14228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retail: InvenTree",
+          "description": "强大的开源库存管理系统，适合零部件追踪。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:46:39Z",
+            "owner": "inventree",
+            "repo": "InvenTree",
+            "stars": 7381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restaurant: TastyIgniter",
+          "description": "专为餐厅设计的在线订餐与管理平台。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-09T09:10:02Z",
+            "owner": "tastyigniter",
+            "repo": "TastyIgniter",
+            "stars": 3694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retail: FluentPOS",
+          "description": "基于 Angular 和 .NET 构建的现代化开源 POS 系统。",
+          "children": []
+        }
+      ],
+      "title": "垂直行业 SaaS (Industry Specific SaaS)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Database: Supabase",
+          "description": "Firebase 的开源替代品，基于 Postgres，内置 Auth 和 Realtime。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:19:06Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monitoring: Uptime Kuma",
+          "description": "(推荐) 颜值极高的自托管监控工具，类似 Uptime Robot，支持状态页。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:14:12Z",
+            "owner": "louislam",
+            "repo": "uptime-kuma",
+            "stars": 90127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search: Elasticsearch",
+          "description": "分布式 RESTful 搜索和分析引擎，全文搜索的行业标准。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:23:39Z",
+            "owner": "elastic",
+            "repo": "elasticsearch",
+            "stars": 77842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monitoring: Grafana",
+          "description": "终极的可视化分析平台，支持从 Prometheus、Loki 等多种数据源展示数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:30:57Z",
+            "owner": "grafana",
+            "repo": "grafana",
+            "stars": 76274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cache: Redis",
+          "description": "事实标准的内存数据结构存储，用作数据库、缓存和消息代理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T02:43:31Z",
+            "owner": "redis",
+            "repo": "redis",
+            "stars": 75994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monitoring: Prometheus",
+          "description": "事实标准的系统监控和报警工具，拥有活跃的生态系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:47:39Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 65723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search: Meilisearch",
+          "description": "(推荐) 轻量级、极速且易于部署的搜索引擎，适合构建即时搜索体验。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T08:31:27Z",
+            "owner": "meilisearch",
+            "repo": "meilisearch",
+            "stars": 58950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Message Queue: Apache Kafka",
+          "description": "高吞吐量的分布式事件流平台，适合大规模数据管道。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T19:38:08Z",
+            "owner": "apache",
+            "repo": "kafka",
+            "stars": 33533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cache: Dragonfly",
+          "description": "现代化的 Redis 替代品，针对多线程无共享架构优化，性能极高。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:52:13Z",
+            "owner": "dragonflydb",
+            "repo": "dragonfly",
+            "stars": 30994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logging: Grafana Loki",
+          "description": "类似 Prometheus 的日志聚合系统，专为云原生环境设计，高效且低成本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:30:32Z",
+            "owner": "grafana",
+            "repo": "loki",
+            "stars": 28723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Database: Neon",
+          "description": "Serverless Postgres，支持计算存储分离和秒级分支克隆。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-25T13:07:37Z",
+            "owner": "neondatabase",
+            "repo": "neon",
+            "stars": 22840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Message Queue: RabbitMQ",
+          "description": "最广泛使用的开源消息代理，支持多种协议。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:06:02Z",
+            "owner": "rabbitmq",
+            "repo": "rabbitmq-server",
+            "stars": 13778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logging: Graylog",
+          "description": "强大的集中式日志管理平台，提供快速的搜索和分析功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T00:22:13Z",
+            "owner": "Graylog2",
+            "repo": "graylog2-server",
+            "stars": 8111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Database: PlanetScale",
+          "description": "基于 Vitess 的 Serverless MySQL，天生支持水平分片。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T06:49:55Z",
+            "owner": "planetscale",
+            "repo": "vitess",
+            "stars": 295
+          }
+        }
+      ],
+      "title": "基础设施与数据库 (Infrastructure & Database)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mobile Stats: Countly",
+          "description": "领先的开源移动分析平台，提供应用内用户行为追踪和崩溃分析。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T18:54:21Z",
+            "owner": "Countly",
+            "repo": "countly-server",
+            "stars": 5886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Competitor: SerpBear",
+          "description": "(最佳平替) 基于“关键词排名 x 搜索量”模型来估算竞品流量，最接近 Semrush 核心逻辑的开源工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-14T07:30:56Z",
+            "owner": "towfiqi",
+            "repo": "serpbear",
+            "stars": 2039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile Stats: Aptabase",
+          "description": "极简的开源移动端分析工具，专注隐私，支持 Swift/Kotlin/React Native。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T05:48:18Z",
+            "owner": "aptabase",
+            "repo": "aptabase",
+            "stars": 1777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASO Tool: aso (Node.js)",
+          "description": "强大的 App Store/Google Play 搜索建议与排名数据抓取库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-15T15:25:32Z",
+            "owner": "facundoolano",
+            "repo": "aso",
+            "stars": 857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Traffic Est: Open Web Analytics",
+          "description": "类似 Google Analytics 的开源版，支持热图和鼠标追踪，用于自身流量精细分析。",
+          "children": []
+        }
+      ],
+      "title": "移动端与流量估算 (Mobile & Traffic Estimation)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GetCito",
+          "description": "世界上首个专注于 AIO/AEO 和生成式引擎优化 (GEO) 的开源工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T04:05:11Z",
+            "owner": "ai-search-guru",
+            "repo": "getcito-worlds-first-open-source-aio-aeo-or-geo-tool",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGEO",
+          "description": "自动化优化内容以适应生成式搜索引擎的框架。",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "AI Monitor",
+          "description": "追踪品牌在 ChatGPT、Perplexity 等 AI 平台中的提及情况。",
+          "children": []
+        }
+      ],
+      "title": "AI 搜索优化 (AIO & AEO)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appsmith",
+          "description": "(最流行) 开发者优先的开源内部工具构建平台，支持拖拽 UI 和 JS 逻辑。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:29:08Z",
+            "owner": "appsmithorg",
+            "repo": "appsmith",
+            "stars": 40657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolJet",
+          "description": "扩展性极强的低代码框架，支持 Python/JS，拥有丰富的集成插件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:08:38Z",
+            "owner": "ToolJet",
+            "repo": "ToolJet",
+            "stars": 38597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Budibase",
+          "description": "专注于速度和易用性，通过简单的 GUI 快速构建 CRUD 应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:10:49Z",
+            "owner": "Budibase",
+            "repo": "budibase",
+            "stars": 28199
+          }
+        }
+      ],
+      "title": "内部工具构建 (Internal Tools)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coder",
+          "description": "(自托管) 在自己的基础设施（Kubernetes/Docker）上部署远程开发环境。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:55:16Z",
+            "owner": "coder",
+            "repo": "coder",
+            "stars": 14141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitpod",
+          "description": "自动化的云端开发环境，通过代码定义环境 ()。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:33:32Z",
+            "owner": "gitpod-io",
+            "repo": "gitpod",
+            "stars": 13755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeSandbox",
+          "description": "即开即用的云端开发环境，特别适合前端框架开发。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T11:28:12Z",
+            "owner": "codesandbox",
+            "repo": "codesandbox-client",
+            "stars": 13631
+          }
+        }
+      ],
+      "title": "在线 IDE 与开发环境 (Online IDEs)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:28:39.236Z",
+    "original_repository": "XiaomingX/awesome-seo-tools",
+    "original_repository_sha": "e9ecc261d578afc1631dab5aba84389c4c95fae9",
+    "enhanced_repository": "enhansome/enhansome-seo-tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome SEO Tools (2026 精选版) with stars"
+  }
+}

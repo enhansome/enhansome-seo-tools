@@ -134,7 +134,7 @@
 
 ### 排名追踪 (Rank Tracking)
 
-* [SerpBear](https://github.com/towfiqi/serpbear) ⭐ 2,040 | 🐛 68 | 🌐 TypeScript | 📅 2026-05-14 - 开源的搜索引擎排名追踪工具，支持 GSC 集成和无限关键词。
+* [SerpBear](https://github.com/towfiqi/serpbear) ⭐ 2,041 | 🐛 68 | 🌐 TypeScript | 📅 2026-05-14 - 开源的搜索引擎排名追踪工具，支持 GSC 集成和无限关键词。
 
 ### SEO 管理与审计
 
@@ -142,15 +142,15 @@
 
 ### CRM & ERP for SEO
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 53,728 | 🐛 10,379 | 🌐 Python | 📅 2026-08-15 - 拥有强大的网站构建器模块，生成代码结构清晰，利于 SEO。
-* [ERPNext](https://github.com/frappe/erpnext) ⭐ 38,107 | 🐛 1,926 | 🌐 Python | 📅 2026-08-15 - 全功能开源 ERP，内置对 SEO 友好的建站模块（Sitemap/Meta 标签控制）。
-* [SuiteCRM](https://github.com/salesagility/SuiteCRM) ⭐ 5,662 | 🐛 1,370 | 🌐 PHP | 📅 2026-07-31 - 高度可定制的开源 CRM，适合管理 SEO 客户和外链建设流程。
-* [EspoCRM](https://github.com/espocrm/espocrm) ⭐ 3,231 | 🐛 59 | 🌐 PHP | 📅 2026-08-14 - 轻量快速，适合代理商管理潜在客户和与 SEO 相关的项目。
+* [Odoo](https://github.com/odoo/odoo) ⭐ 53,737 | 🐛 10,375 | 🌐 Python | 📅 2026-08-16 - 拥有强大的网站构建器模块，生成代码结构清晰，利于 SEO。
+* [ERPNext](https://github.com/frappe/erpnext) ⭐ 38,165 | 🐛 1,912 | 🌐 Python | 📅 2026-08-16 - 全功能开源 ERP，内置对 SEO 友好的建站模块（Sitemap/Meta 标签控制）。
+* [SuiteCRM](https://github.com/salesagility/SuiteCRM) ⭐ 5,663 | 🐛 1,370 | 🌐 PHP | 📅 2026-07-31 - 高度可定制的开源 CRM，适合管理 SEO 客户和外链建设流程。
+* [EspoCRM](https://github.com/espocrm/espocrm) ⭐ 3,232 | 🐛 59 | 🌐 PHP | 📅 2026-08-16 - 轻量快速，适合代理商管理潜在客户和与 SEO 相关的项目。
 
 ### 营销效果监控 (Marketing Monitoring)
 
-* [Apache Superset](https://github.com/apache/superset) ⭐ 74,268 | 🐛 584 | 🌐 Python | 📅 2026-08-15 - 企业级 BI 工具，适合搭建跨渠道的 SEO 与营销数据看板。
-* [Mautic](https://github.com/mautic/mautic) ⭐ 10,342 | 🐛 191 | 🌐 PHP | 📅 2026-08-14 - 世界著名的开源营销自动化平台，内置邮件与着陆页的效果追踪。
+* [Apache Superset](https://github.com/apache/superset) ⭐ 74,278 | 🐛 586 | 🌐 Python | 📅 2026-08-16 - 企业级 BI 工具，适合搭建跨渠道的 SEO 与营销数据看板。
+* [Mautic](https://github.com/mautic/mautic) ⭐ 10,351 | 🐛 194 | 🌐 PHP | 📅 2026-08-14 - 世界著名的开源营销自动化平台，内置邮件与着陆页的效果追踪。
 
 ### 生成式引擎优化 (GEO & LLM Optimization)
 
@@ -158,46 +158,46 @@
 
 ### 调研与多维表格 (Survey & Multidimensional Databases)
 
-* [NocoDB](https://github.com/nocodb/nocodb) ⭐ 64,543 | 🐛 701 | 🌐 TypeScript | 📅 2026-08-15 - 将 MySQL/PostgreSQL 转化为智能电子表格，自托管的 Airtable 替代品。
-* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 12,773 | 🐛 245 | 🌐 TypeScript | 📅 2026-08-15 - 开源的 Qualtrics 替代品，适合产品体验管理和应用内微调查。
-* [Typebot](https://github.com/baptisteArno/typebot.io) ⭐ 10,260 | 🐛 204 | 🌐 TypeScript | 📅 2026-08-15 - 强大的可视化对话式表单构建器，适合营销获客。
-* [Baserow](https://github.com/bram2w/baserow) ⭐ 5,611 | 🐛 1,210 | 🌐 Python | 📅 2026-08-14 - 开源无代码数据库，界面友好，扩展性强。
+* [NocoDB](https://github.com/nocodb/nocodb) ⭐ 64,553 | 🐛 702 | 🌐 TypeScript | 📅 2026-08-16 - 将 MySQL/PostgreSQL 转化为智能电子表格，自托管的 Airtable 替代品。
+* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 12,776 | 🐛 243 | 🌐 TypeScript | 📅 2026-08-16 - 开源的 Qualtrics 替代品，适合产品体验管理和应用内微调查。
+* [Typebot](https://github.com/baptisteArno/typebot.io) ⭐ 10,265 | 🐛 204 | 🌐 TypeScript | 📅 2026-08-16 - 强大的可视化对话式表单构建器，适合营销获客。
+* [Baserow](https://github.com/bram2w/baserow) ⭐ 5,614 | 🐛 1,210 | 🌐 Python | 📅 2026-08-16 - 开源无代码数据库，界面友好，扩展性强。
 
 ### 企业服务与呼叫中心 (Enterprise SaaS & Call Center)
 
-* [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 35,891 | 🐛 1,337 | 🌐 Ruby | 📅 2026-08-14 - 开源客户互动套件，Intercom/Zendesk 的替代品。
+* [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 35,902 | 🐛 1,339 | 🌐 Ruby | 📅 2026-08-16 - 开源客户互动套件，Intercom/Zendesk 的替代品。
 * [VICIdial](https://github.com/vicidial/vicidial) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2023-04-12 - 全球最流行的开源联络中心解决方案，支持预测式外呼。
 * [GOautodial](https://github.com/goautodial/goautodial) - 基于 VICIdial 的现代化全渠道联络中心套件，界面更友好。
 
 ### 垂直行业 SaaS (Industry Specific SaaS)
 
-* **Hotel**: [QloApps](https://github.com/Qloapps/QloApps) ⭐ 14,233 | 🐛 141 | 🌐 PHP | 📅 2026-08-14 - 热门的开源酒店预订与管理系统。
-* **Retail**: [InvenTree](https://github.com/inventree/InvenTree) ⭐ 7,389 | 🐛 196 | 🌐 Python | 📅 2026-08-14 - 强大的开源库存管理系统，适合零部件追踪。
-* **Restaurant**: [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) ⭐ 3,728 | 🐛 4 | 🌐 PHP | 📅 2026-08-15 - 专为餐厅设计的在线订餐与管理平台。
+* **Hotel**: [QloApps](https://github.com/Qloapps/QloApps) ⭐ 14,234 | 🐛 141 | 🌐 PHP | 📅 2026-08-14 - 热门的开源酒店预订与管理系统。
+* **Retail**: [InvenTree](https://github.com/inventree/InvenTree) ⭐ 7,394 | 🐛 195 | 🌐 Python | 📅 2026-08-16 - 强大的开源库存管理系统，适合零部件追踪。
+* **Restaurant**: [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) ⭐ 3,729 | 🐛 1 | 🌐 PHP | 📅 2026-08-15 - 专为餐厅设计的在线订餐与管理平台。
 * **Retail**: [FluentPOS](https://github.com/fluentpos/fluentpos) - 基于 Angular 和 .NET 构建的现代化开源 POS 系统。
 
 ### 基础设施与数据库 (Infrastructure & Database)
 
-* **Database**: [Supabase](https://github.com/supabase/supabase) ⭐ 108,013 | 🐛 1,275 | 🌐 TypeScript | 📅 2026-08-15 - Firebase 的开源替代品，基于 Postgres，内置 Auth 和 Realtime。
-* **Monitoring**: [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 90,192 | 🐛 790 | 🌐 JavaScript | 📅 2026-08-15 - **(推荐)** 颜值极高的自托管监控工具，类似 Uptime Robot，支持状态页。
-* **Search**: [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,824 | 🐛 6,055 | 🌐 Java | 📅 2026-08-15 - 分布式 RESTful 搜索和分析引擎，全文搜索的行业标准。
-* **Monitoring**: [Grafana](https://github.com/grafana/grafana) ⭐ 76,279 | 🐛 3,378 | 🌐 TypeScript | 📅 2026-08-15 - 终极的可视化分析平台，支持从 Prometheus、Loki 等多种数据源展示数据。
-* **Cache**: [Redis](https://github.com/redis/redis) ⭐ 76,019 | 🐛 2,905 | 🌐 C | 📅 2026-08-13 - 事实标准的内存数据结构存储，用作数据库、缓存和消息代理。
-* **Monitoring**: [Prometheus](https://github.com/prometheus/prometheus) ⭐ 65,709 | 🐛 887 | 🌐 Go | 📅 2026-08-15 - 事实标准的系统监控和报警工具，拥有活跃的生态系统。
-* **Search**: [Meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 58,972 | 🐛 305 | 🌐 Rust | 📅 2026-08-14 - **(推荐)** 轻量级、极速且易于部署的搜索引擎，适合构建即时搜索体验。
-* **Message Queue**: [Apache Kafka](https://github.com/apache/kafka) ⭐ 33,546 | 🐛 485 | 🌐 Java | 📅 2026-08-15 - 高吞吐量的分布式事件流平台，适合大规模数据管道。
-* **Cache**: [Dragonfly](https://github.com/dragonflydb/dragonfly) ⭐ 30,997 | 🐛 306 | 🌐 C++ | 📅 2026-08-14 - 现代化的 Redis 替代品，针对多线程无共享架构优化，性能极高。
-* **Logging**: [Grafana Loki](https://github.com/grafana/loki) ⭐ 28,739 | 🐛 1,764 | 🌐 Go | 📅 2026-08-15 - 类似 Prometheus 的日志聚合系统，专为云原生环境设计，高效且低成本。
-* **Database**: [Neon](https://github.com/neondatabase/neon) ⭐ 22,865 | 🐛 552 | 🌐 Rust | 📅 2026-05-25 - Serverless Postgres，支持计算存储分离和秒级分支克隆。
-* **Message Queue**: [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,780 | 🐛 262 | 🌐 JavaScript | 📅 2026-08-15 - 最广泛使用的开源消息代理，支持多种协议。
-* **Logging**: [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,111 | 🐛 2,048 | 🌐 Java | 📅 2026-08-15 - 强大的集中式日志管理平台，提供快速的搜索和分析功能。
+* **Database**: [Supabase](https://github.com/supabase/supabase) ⭐ 108,049 | 🐛 1,276 | 🌐 TypeScript | 📅 2026-08-16 - Firebase 的开源替代品，基于 Postgres，内置 Auth 和 Realtime。
+* **Monitoring**: [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 90,217 | 🐛 789 | 🌐 JavaScript | 📅 2026-08-16 - **(推荐)** 颜值极高的自托管监控工具，类似 Uptime Robot，支持状态页。
+* **Search**: [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,835 | 🐛 6,069 | 🌐 Java | 📅 2026-08-16 - 分布式 RESTful 搜索和分析引擎，全文搜索的行业标准。
+* **Monitoring**: [Grafana](https://github.com/grafana/grafana) ⭐ 76,294 | 🐛 3,376 | 🌐 TypeScript | 📅 2026-08-16 - 终极的可视化分析平台，支持从 Prometheus、Loki 等多种数据源展示数据。
+* **Cache**: [Redis](https://github.com/redis/redis) ⭐ 76,028 | 🐛 2,907 | 🌐 C | 📅 2026-08-13 - 事实标准的内存数据结构存储，用作数据库、缓存和消息代理。
+* **Monitoring**: [Prometheus](https://github.com/prometheus/prometheus) ⭐ 65,714 | 🐛 892 | 🌐 Go | 📅 2026-08-15 - 事实标准的系统监控和报警工具，拥有活跃的生态系统。
+* **Search**: [Meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 58,981 | 🐛 305 | 🌐 Rust | 📅 2026-08-14 - **(推荐)** 轻量级、极速且易于部署的搜索引擎，适合构建即时搜索体验。
+* **Message Queue**: [Apache Kafka](https://github.com/apache/kafka) ⭐ 33,547 | 🐛 490 | 🌐 Java | 📅 2026-08-15 - 高吞吐量的分布式事件流平台，适合大规模数据管道。
+* **Cache**: [Dragonfly](https://github.com/dragonflydb/dragonfly) ⭐ 31,005 | 🐛 302 | 🌐 C++ | 📅 2026-08-16 - 现代化的 Redis 替代品，针对多线程无共享架构优化，性能极高。
+* **Logging**: [Grafana Loki](https://github.com/grafana/loki) ⭐ 28,745 | 🐛 1,766 | 🌐 Go | 📅 2026-08-16 - 类似 Prometheus 的日志聚合系统，专为云原生环境设计，高效且低成本。
+* **Database**: [Neon](https://github.com/neondatabase/neon) ⭐ 22,870 | 🐛 552 | 🌐 Rust | 📅 2026-05-25 - Serverless Postgres，支持计算存储分离和秒级分支克隆。
+* **Message Queue**: [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,780 | 🐛 269 | 🌐 JavaScript | 📅 2026-08-15 - 最广泛使用的开源消息代理，支持多种协议。
+* **Logging**: [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,113 | 🐛 2,048 | 🌐 Java | 📅 2026-08-15 - 强大的集中式日志管理平台，提供快速的搜索和分析功能。
 * **Database**: [PlanetScale](https://github.com/planetscale/vitess) ⭐ 295 | 🐛 0 | 🌐 Go | 📅 2026-08-02 - 基于 Vitess 的 Serverless MySQL，天生支持水平分片。
 * **Cloud**: [Hetzner](https://www.hetzner.com/) - **(高性价比)** 德国老牌服务商，以极高的价格性能比著称，适合自托管。
 
 ### 移动端与流量估算 (Mobile & Traffic Estimation)
 
 * **Mobile Stats**: [Countly](https://github.com/Countly/countly-server) ⭐ 5,887 | 🐛 91 | 🌐 JavaScript | 📅 2026-08-14 - 领先的开源移动分析平台，提供应用内用户行为追踪和崩溃分析。
-* **Competitor**: [SerpBear](https://github.com/towfiqi/serpbear) ⭐ 2,040 | 🐛 68 | 🌐 TypeScript | 📅 2026-05-14 - **(最佳平替)** 基于“关键词排名 x 搜索量”模型来估算竞品流量，最接近 Semrush 核心逻辑的开源工具。
+* **Competitor**: [SerpBear](https://github.com/towfiqi/serpbear) ⭐ 2,041 | 🐛 68 | 🌐 TypeScript | 📅 2026-05-14 - **(最佳平替)** 基于“关键词排名 x 搜索量”模型来估算竞品流量，最接近 Semrush 核心逻辑的开源工具。
 * **Mobile Stats**: [Aptabase](https://github.com/aptabase/aptabase) ⭐ 1,776 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-13 - 极简的开源移动端分析工具，专注隐私，支持 Swift/Kotlin/React Native。
 * **ASO Tool**: [aso (Node.js)](https://github.com/facundoolano/aso) ⭐ 856 | 🐛 19 | 🌐 JavaScript | 📅 2023-11-15 - 强大的 App Store/Google Play 搜索建议与排名数据抓取库。
 * **Traffic Est**: [Open Web Analytics](https://github.com/OpenWebAnalytics/owa) - 类似 Google Analytics 的开源版，支持热图和鼠标追踪，用于自身流量精细分析。
@@ -210,16 +210,16 @@
 
 ### 内部工具构建 (Internal Tools)
 
-* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,676 | 🐛 4,477 | 🌐 TypeScript | 📅 2026-08-14 - **(最流行)** 开发者优先的开源内部工具构建平台，支持拖拽 UI 和 JS 逻辑。
-* [ToolJet](https://github.com/ToolJet/ToolJet) ⭐ 39,371 | 🐛 1,125 | 🌐 JavaScript | 📅 2026-08-14 - 扩展性极强的低代码框架，支持 Python/JS，拥有丰富的集成插件。
-* [Budibase](https://github.com/Budibase/budibase) ⭐ 28,202 | 🐛 296 | 🌐 TypeScript | 📅 2026-08-15 - 专注于速度和易用性，通过简单的 GUI 快速构建 CRUD 应用。
+* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,678 | 🐛 4,476 | 🌐 TypeScript | 📅 2026-08-14 - **(最流行)** 开发者优先的开源内部工具构建平台，支持拖拽 UI 和 JS 逻辑。
+* [ToolJet](https://github.com/ToolJet/ToolJet) ⭐ 39,826 | 🐛 1,130 | 🌐 JavaScript | 📅 2026-08-14 - 扩展性极强的低代码框架，支持 Python/JS，拥有丰富的集成插件。
+* [Budibase](https://github.com/Budibase/budibase) ⭐ 28,202 | 🐛 297 | 🌐 TypeScript | 📅 2026-08-15 - 专注于速度和易用性，通过简单的 GUI 快速构建 CRUD 应用。
 
 ### 在线 IDE 与开发环境 (Online IDEs)
 
-* [Coder](https://github.com/coder/coder) ⭐ 14,155 | 🐛 977 | 🌐 Go | 📅 2026-08-15 - **(自托管)** 在自己的基础设施（Kubernetes/Docker）上部署远程开发环境。
-* [Gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,753 | 🐛 455 | 🌐 TypeScript | 📅 2026-08-12 - 自动化的云端开发环境，通过代码定义环境 (`.gitpod.yml`)。
+* [Coder](https://github.com/coder/coder) ⭐ 14,165 | 🐛 971 | 🌐 Go | 📅 2026-08-16 - **(自托管)** 在自己的基础设施（Kubernetes/Docker）上部署远程开发环境。
+* [Gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,752 | 🐛 455 | 🌐 TypeScript | 📅 2026-08-12 - 自动化的云端开发环境，通过代码定义环境 (`.gitpod.yml`)。
 * [CodeSandbox](https://github.com/codesandbox/codesandbox-client) ⭐ 13,631 | 🐛 612 | 🌐 JavaScript | 📅 2026-07-15 - 即开即用的云端开发环境，特别适合前端框架开发。
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

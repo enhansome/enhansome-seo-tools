@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SerpBear",
+              "description": "开源的搜索引擎排名追踪工具，支持 GSC 集成和无限关键词。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570178488,
+                "language": "TypeScript",
+                "last_commit": "2026-05-14T07:30:56Z",
+                "owner": "towfiqi",
+                "repo": "serpbear",
+                "stars": 2059
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "排名追踪 (Rank Tracking)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Odoo",
               "description": "拥有强大的网站构建器模块，生成代码结构清晰，利于 SEO。",
               "children": [],
@@ -14,10 +36,10 @@
                 "archived": false,
                 "id": 19745004,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:54:59Z",
+                "last_commit": "2026-08-24T14:30:28Z",
                 "owner": "odoo",
                 "repo": "odoo",
-                "stars": 53880
+                "stars": 53910
               }
             },
             {
@@ -29,10 +51,10 @@
                 "archived": false,
                 "id": 1864233,
                 "language": "Python",
-                "last_commit": "2026-08-23T11:33:36Z",
+                "last_commit": "2026-08-24T13:03:33Z",
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38412
+                "stars": 38448
               }
             },
             {
@@ -47,7 +69,7 @@
                 "last_commit": "2026-07-31T13:37:50Z",
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5683
+                "stars": 5688
               }
             },
             {
@@ -62,7 +84,7 @@
                 "last_commit": "2026-08-20T16:19:15Z",
                 "owner": "espocrm",
                 "repo": "espocrm",
-                "stars": 3283
+                "stars": 3287
               }
             }
           ],
@@ -81,10 +103,10 @@
                 "archived": false,
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-23T13:14:28Z",
+                "last_commit": "2026-08-24T14:31:14Z",
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74424
+                "stars": 74445
               }
             },
             {
@@ -96,10 +118,10 @@
                 "archived": false,
                 "id": 12204147,
                 "language": "PHP",
-                "last_commit": "2026-08-21T14:23:55Z",
+                "last_commit": "2026-08-24T14:18:50Z",
                 "owner": "mautic",
                 "repo": "mautic",
-                "stars": 10383
+                "stars": 10384
               }
             }
           ],
@@ -118,10 +140,10 @@
                 "archived": false,
                 "id": 108761645,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T07:44:05Z",
+                "last_commit": "2026-08-24T12:59:39Z",
                 "owner": "nocodb",
                 "repo": "nocodb",
-                "stars": 64668
+                "stars": 64703
               }
             },
             {
@@ -133,10 +155,10 @@
                 "archived": false,
                 "id": 500289888,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T08:29:19Z",
+                "last_commit": "2026-08-24T14:38:47Z",
                 "owner": "formbricks",
                 "repo": "formbricks",
-                "stars": 12805
+                "stars": 12809
               }
             },
             {
@@ -148,10 +170,10 @@
                 "archived": false,
                 "id": 429736266,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T06:10:31Z",
+                "last_commit": "2026-08-24T13:00:12Z",
                 "owner": "baptisteArno",
                 "repo": "typebot.io",
-                "stars": 10280
+                "stars": 10282
               }
             },
             {
@@ -163,10 +185,10 @@
                 "archived": false,
                 "id": 281073868,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:31:06Z",
+                "last_commit": "2026-08-24T14:12:59Z",
                 "owner": "baserow",
                 "repo": "baserow",
-                "stars": 5660
+                "stars": 5682
               }
             }
           ],
@@ -185,10 +207,10 @@
                 "archived": false,
                 "id": 202291859,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T01:12:16Z",
+                "last_commit": "2026-08-24T14:20:21Z",
                 "owner": "chatwoot",
                 "repo": "chatwoot",
-                "stars": 36093
+                "stars": 36149
               }
             },
             {
@@ -222,7 +244,7 @@
                 "archived": false,
                 "id": 45409645,
                 "language": "PHP",
-                "last_commit": "2026-08-14T15:04:55Z",
+                "last_commit": "2026-08-24T14:36:31Z",
                 "owner": "Qloapps",
                 "repo": "QloApps",
                 "stars": 14235
@@ -237,10 +259,10 @@
                 "archived": false,
                 "id": 85894461,
                 "language": "Python",
-                "last_commit": "2026-08-23T09:12:49Z",
+                "last_commit": "2026-08-24T13:40:27Z",
                 "owner": "inventree",
                 "repo": "InvenTree",
-                "stars": 7440
+                "stars": 7442
               }
             },
             {
@@ -255,7 +277,7 @@
                 "last_commit": "2026-08-22T11:28:11Z",
                 "owner": "tastyigniter",
                 "repo": "TastyIgniter",
-                "stars": 3739
+                "stars": 3742
               }
             }
           ],
@@ -274,10 +296,10 @@
                 "archived": false,
                 "id": 214587193,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T08:29:11Z",
+                "last_commit": "2026-08-24T14:34:53Z",
                 "owner": "supabase",
                 "repo": "supabase",
-                "stars": 108316
+                "stars": 108348
               }
             },
             {
@@ -289,10 +311,10 @@
                 "archived": false,
                 "id": 382496361,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T14:28:09Z",
+                "last_commit": "2026-08-24T03:32:09Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90507
+                "stars": 90558
               }
             },
             {
@@ -304,10 +326,10 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-23T10:06:41Z",
+                "last_commit": "2026-08-24T14:40:33Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77853
+                "stars": 77856
               }
             },
             {
@@ -319,10 +341,10 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:16:39Z",
+                "last_commit": "2026-08-24T14:29:14Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76361
+                "stars": 76386
               }
             },
             {
@@ -334,10 +356,10 @@
                 "archived": false,
                 "id": 156018,
                 "language": "C",
-                "last_commit": "2026-08-23T09:58:26Z",
+                "last_commit": "2026-08-24T13:22:47Z",
                 "owner": "redis",
                 "repo": "redis",
-                "stars": 76088
+                "stars": 76096
               }
             },
             {
@@ -349,10 +371,10 @@
                 "archived": false,
                 "id": 6838921,
                 "language": "Go",
-                "last_commit": "2026-08-23T13:08:58Z",
+                "last_commit": "2026-08-24T12:48:09Z",
                 "owner": "prometheus",
                 "repo": "prometheus",
-                "stars": 65785
+                "stars": 65798
               }
             },
             {
@@ -367,7 +389,7 @@
                 "last_commit": "2026-08-14T09:38:01Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59060
+                "stars": 59073
               }
             },
             {
@@ -379,10 +401,10 @@
                 "archived": false,
                 "id": 2211243,
                 "language": "Java",
-                "last_commit": "2026-08-23T15:11:12Z",
+                "last_commit": "2026-08-24T14:05:10Z",
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33596
+                "stars": 33606
               }
             },
             {
@@ -394,10 +416,10 @@
                 "archived": false,
                 "id": 437245741,
                 "language": "C++",
-                "last_commit": "2026-08-23T15:11:54Z",
+                "last_commit": "2026-08-24T13:50:34Z",
                 "owner": "dragonflydb",
                 "repo": "dragonfly",
-                "stars": 31019
+                "stars": 31020
               }
             },
             {
@@ -409,10 +431,10 @@
                 "archived": false,
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-23T15:32:54Z",
+                "last_commit": "2026-08-24T14:09:04Z",
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28774
+                "stars": 28778
               }
             },
             {
@@ -427,7 +449,7 @@
                 "last_commit": "2026-05-25T13:07:37Z",
                 "owner": "neondatabase",
                 "repo": "neon",
-                "stars": 22934
+                "stars": 22941
               }
             },
             {
@@ -439,10 +461,10 @@
                 "archived": false,
                 "id": 924551,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T23:18:07Z",
+                "last_commit": "2026-08-24T14:21:54Z",
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-server",
-                "stars": 13799
+                "stars": 13801
               }
             },
             {
@@ -454,10 +476,10 @@
                 "archived": false,
                 "id": 671825,
                 "language": "Java",
-                "last_commit": "2026-08-21T22:25:16Z",
+                "last_commit": "2026-08-24T14:31:39Z",
                 "owner": "Graylog2",
                 "repo": "graylog2-server",
-                "stars": 8112
+                "stars": 8113
               }
             },
             {
@@ -469,7 +491,7 @@
                 "archived": false,
                 "id": 133275023,
                 "language": "Go",
-                "last_commit": "2026-08-21T14:58:58Z",
+                "last_commit": "2026-08-24T12:10:57Z",
                 "owner": "planetscale",
                 "repo": "vitess",
                 "stars": 296
@@ -491,7 +513,7 @@
                 "archived": false,
                 "id": 4473517,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T19:28:12Z",
+                "last_commit": "2026-08-24T01:23:05Z",
                 "owner": "Countly",
                 "repo": "countly-server",
                 "stars": 5891
@@ -509,7 +531,7 @@
                 "last_commit": "2026-05-14T07:30:56Z",
                 "owner": "towfiqi",
                 "repo": "serpbear",
-                "stars": 2056
+                "stars": 2059
               }
             },
             {
@@ -524,7 +546,7 @@
                 "last_commit": "2026-08-13T07:35:17Z",
                 "owner": "aptabase",
                 "repo": "aptabase",
-                "stars": 1778
+                "stars": 1780
               }
             },
             {
@@ -558,10 +580,10 @@
                 "archived": false,
                 "id": 1089029904,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T10:38:00Z",
+                "last_commit": "2026-08-24T04:14:44Z",
                 "owner": "ai-search-guru",
                 "repo": "getcito-worlds-first-open-source-aio-aeo-or-geo-tool",
-                "stars": 170
+                "stars": 172
               }
             }
           ],
@@ -573,21 +595,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Appsmith",
-              "description": "(最流行) 开发者优先的开源内部工具构建平台，支持拖拽 UI 和 JS 逻辑。",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 275993885,
-                "language": "TypeScript",
-                "last_commit": "2026-08-21T18:45:48Z",
-                "owner": "appsmithorg",
-                "repo": "appsmith",
-                "stars": 40727
-              }
-            },
-            {
-              "node_type": "item",
               "title": "ToolJet",
               "description": "扩展性极强的低代码框架，支持 Python/JS，拥有丰富的集成插件。",
               "children": [],
@@ -595,10 +602,25 @@
                 "archived": false,
                 "id": 352933140,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T15:10:55Z",
+                "last_commit": "2026-08-24T14:08:10Z",
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40723
+                "stars": 40746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Appsmith",
+              "description": "(最流行) 开发者优先的开源内部工具构建平台，支持拖拽 UI 和 JS 逻辑。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275993885,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T10:59:41Z",
+                "owner": "appsmithorg",
+                "repo": "appsmith",
+                "stars": 40733
               }
             },
             {
@@ -610,10 +632,10 @@
                 "archived": false,
                 "id": 190729906,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:39:47Z",
+                "last_commit": "2026-08-24T14:39:14Z",
                 "owner": "Budibase",
                 "repo": "budibase",
-                "stars": 28239
+                "stars": 28243
               }
             }
           ],
@@ -632,10 +654,10 @@
                 "archived": false,
                 "id": 440752086,
                 "language": "Go",
-                "last_commit": "2026-08-23T15:50:27Z",
+                "last_commit": "2026-08-24T14:42:47Z",
                 "owner": "coder",
                 "repo": "coder",
-                "stars": 14232
+                "stars": 14236
               }
             },
             {
@@ -647,7 +669,7 @@
                 "archived": false,
                 "id": 130879558,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T05:07:39Z",
+                "last_commit": "2026-08-24T10:26:09Z",
                 "owner": "gitpod-io",
                 "repo": "gitpod",
                 "stars": 13755
@@ -665,7 +687,7 @@
                 "last_commit": "2026-07-15T11:28:12Z",
                 "owner": "codesandbox",
                 "repo": "codesandbox-client",
-                "stars": 13635
+                "stars": 13637
               }
             }
           ],
@@ -678,7 +700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:57:29.758Z",
+    "last_updated": "2026-08-24T14:43:10.228Z",
     "original_repository": "XiaomingX/awesome-seo-tools",
     "original_repository_id": 893488951,
     "original_repository_sha": "e9ecc261d578afc1631dab5aba84389c4c95fae9",

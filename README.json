@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search Engine Position Rank Tracking App",
+                "homepage": "https://docs.serpbear.com/",
                 "id": 570178488,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-14T07:30:56Z",
+                "open_issues": 71,
                 "owner": "towfiqi",
                 "repo": "serpbear",
-                "stars": 2064
+                "stars": 2064,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -35,12 +40,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Odoo. Open Source Apps To Grow Your Business.",
+                "homepage": "https://www.odoo.com",
                 "id": 19745004,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:59:39Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:54:43Z",
+                "open_issues": 10402,
                 "owner": "odoo",
                 "repo": "odoo",
-                "stars": 54016
+                "stars": 54018,
+                "topics": [
+                  "apps",
+                  "business",
+                  "erp",
+                  "management",
+                  "odoo",
+                  "odoo-apps",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -51,12 +69,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+                "homepage": "https://frappe.io/erpnext",
                 "id": 1864233,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T15:05:25Z",
+                "open_issues": 1823,
                 "owner": "frappe",
                 "repo": "erpnext",
-                "stars": 38611
+                "stars": 38616,
+                "topics": [
+                  "accounting",
+                  "asset-management",
+                  "crm",
+                  "distribution",
+                  "erp",
+                  "erpnext",
+                  "frappe",
+                  "healthcare",
+                  "hrms",
+                  "manufacturing",
+                  "point-of-sale",
+                  "procurement",
+                  "project-management",
+                  "python",
+                  "retail",
+                  "support"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -67,12 +107,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SuiteCRM - Open source CRM for the world",
+                "homepage": "https://www.suitecrm.com",
                 "id": 13044600,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-31T13:37:50Z",
+                "open_issues": 1374,
                 "owner": "SuiteCRM",
                 "repo": "SuiteCRM",
-                "stars": 5703
+                "stars": 5703,
+                "topics": [
+                  "accounts",
+                  "agplv3",
+                  "cases",
+                  "contacts",
+                  "contracts",
+                  "crm",
+                  "documents",
+                  "leads",
+                  "multi-currency",
+                  "multi-language-support",
+                  "opportunities",
+                  "php",
+                  "portal",
+                  "quotes",
+                  "reports",
+                  "suitecrm",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -83,12 +146,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EspoCRM – Open Source CRM Application",
+                "homepage": "https://www.espocrm.com",
                 "id": 24459441,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T09:11:31Z",
+                "open_issues": 64,
                 "owner": "espocrm",
                 "repo": "espocrm",
-                "stars": 3305
+                "stars": 3305,
+                "topics": [
+                  "calendar",
+                  "contacts",
+                  "crm",
+                  "crm-platform",
+                  "crm-system",
+                  "customer-portal",
+                  "customer-support",
+                  "customizable",
+                  "documents",
+                  "email-marketing",
+                  "kanban",
+                  "leads",
+                  "open-source",
+                  "php",
+                  "platform",
+                  "sales-automation",
+                  "single-page-application",
+                  "support"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -106,12 +193,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+                "homepage": "https://superset.apache.org/",
                 "id": 39464018,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:06:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:07:17Z",
+                "open_issues": 612,
                 "owner": "apache",
                 "repo": "superset",
-                "stars": 74516
+                "stars": 74520,
+                "topics": [
+                  "analytics",
+                  "apache",
+                  "apache-superset",
+                  "asf",
+                  "bi",
+                  "business-analytics",
+                  "business-intelligence",
+                  "data-analysis",
+                  "data-analytics",
+                  "data-engineering",
+                  "data-science",
+                  "data-visualization",
+                  "data-viz",
+                  "flask",
+                  "python",
+                  "react",
+                  "sql-editor",
+                  "superset"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -122,12 +233,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mautic: Open Source Marketing Automation Software.",
+                "homepage": "https://www.mautic.org",
                 "id": 12204147,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T14:37:48Z",
+                "open_issues": 183,
                 "owner": "mautic",
                 "repo": "mautic",
-                "stars": 10412
+                "stars": 10414,
+                "topics": [
+                  "digital-experience-platform",
+                  "digitalexperienceplatform",
+                  "dxp",
+                  "email-marketing",
+                  "email-marketing-automation",
+                  "email-marketing-software",
+                  "hacktoberfest",
+                  "marketing-automation",
+                  "marketing-tools",
+                  "mautic",
+                  "open-source",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -145,12 +274,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative",
+                "homepage": "https://nocodb.com",
                 "id": 108761645,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:58:55Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:25:14Z",
+                "open_issues": 716,
                 "owner": "nocodb",
                 "repo": "nocodb",
-                "stars": 64774
+                "stars": 64776,
+                "topics": [
+                  "airtable",
+                  "airtable-alternative",
+                  "automatic-api",
+                  "hacktoberfest",
+                  "low-code",
+                  "no-code",
+                  "no-code-database",
+                  "no-code-platform",
+                  "postgresql",
+                  "rest-api",
+                  "restful-api",
+                  "spreadsheet",
+                  "sqlite",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -161,12 +310,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Qualtrics Alternative",
+                "homepage": "https://formbricks.com",
                 "id": 500289888,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:45:08Z",
+                "open_issues": 239,
                 "owner": "formbricks",
                 "repo": "formbricks",
-                "stars": 12837
+                "stars": 12837,
+                "topics": [
+                  "experience-management",
+                  "form",
+                  "forms",
+                  "nextjs",
+                  "open-source",
+                  "react",
+                  "reactjs",
+                  "survey",
+                  "survey-analysis",
+                  "survey-data",
+                  "survey-form",
+                  "surveys",
+                  "tailwindcss",
+                  "turborepo",
+                  "typeform",
+                  "typescript",
+                  "xm"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -177,12 +349,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+                "homepage": "https://typebot.io",
                 "id": 429736266,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T13:00:12Z",
+                "open_issues": 14,
                 "owner": "baptisteArno",
                 "repo": "typebot.io",
-                "stars": 10296
+                "stars": 10297,
+                "topics": [
+                  "chat-application",
+                  "chatbot",
+                  "conversational-bots",
+                  "form-builder",
+                  "nextjs",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -193,12 +377,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+                "homepage": "https://baserow.io",
                 "id": 281073868,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:30:05Z",
+                "open_issues": 1219,
                 "owner": "baserow",
                 "repo": "baserow",
-                "stars": 5743
+                "stars": 5743,
+                "topics": [
+                  "airtable",
+                  "airtable-alternative",
+                  "airtable-replacement",
+                  "application-builder",
+                  "automations",
+                  "dashboards",
+                  "database",
+                  "low-code",
+                  "no-code",
+                  "no-code-database",
+                  "no-code-platform",
+                  "online-database",
+                  "postgresql",
+                  "restful-api",
+                  "self-hosted",
+                  "spreadsheet"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -216,12 +422,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+                "homepage": "https://www.chatwoot.com/help-center",
                 "id": 202291859,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:36:53Z",
+                "open_issues": 1350,
                 "owner": "chatwoot",
                 "repo": "chatwoot",
-                "stars": 36281
+                "stars": 36285,
+                "topics": [
+                  "actioncable",
+                  "chat-widget",
+                  "conversation",
+                  "customer-support",
+                  "dashboard",
+                  "design",
+                  "docker",
+                  "docker-image",
+                  "heroku",
+                  "intercom",
+                  "javascript",
+                  "livechat",
+                  "opensource",
+                  "rails",
+                  "ruby",
+                  "sass",
+                  "vuejs",
+                  "whatsapp",
+                  "zendesk"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -232,12 +463,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vicidial && asterisk robot ",
+                "homepage": "http://www.51jiqiren.cn",
                 "id": 58696316,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-04-12T06:21:11Z",
+                "open_issues": 0,
                 "owner": "vicidial",
                 "repo": "vicidial",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "robot"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -255,12 +493,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.",
+                "homepage": "https://qloapps.com",
                 "id": 45409645,
                 "language": "PHP",
+                "license": "OSL-3.0",
                 "last_commit": "2026-08-26T12:37:27Z",
+                "open_issues": 136,
                 "owner": "Qloapps",
                 "repo": "QloApps",
-                "stars": 14274
+                "stars": 14278,
+                "topics": [
+                  "booking-engine",
+                  "booking-website",
+                  "central-management",
+                  "central-reservation-system",
+                  "cms",
+                  "desk-booking",
+                  "hotel-booking-app",
+                  "hotel-booking-website",
+                  "hotel-management-system",
+                  "hotel-reservation-system",
+                  "hotel-website",
+                  "hotelcommerce",
+                  "online-booking-management",
+                  "pms",
+                  "property-management",
+                  "property-management-software",
+                  "property-management-system",
+                  "qloapps",
+                  "software",
+                  "staff-management"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -271,12 +535,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Inventory Management System",
+                "homepage": "https://docs.inventree.org",
                 "id": 85894461,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:02:25Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:21:43Z",
+                "open_issues": 194,
                 "owner": "inventree",
                 "repo": "InvenTree",
-                "stars": 7466
+                "stars": 7469,
+                "topics": [
+                  "django",
+                  "hacktoberfest",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -287,12 +560,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":fire: Powerful, yet easy to use, open-source online ordering, table reservation and management system for restaurants",
+                "homepage": "https://tastyigniter.com",
                 "id": 16455664,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-22T11:28:11Z",
+                "open_issues": 2,
                 "owner": "tastyigniter",
                 "repo": "TastyIgniter",
-                "stars": 3746
+                "stars": 3746,
+                "topics": [
+                  "food-ordering",
+                  "food-ordering-system",
+                  "laravel",
+                  "multiple-restaurant",
+                  "multiplelocations",
+                  "onlineorderingapp",
+                  "ordering-system",
+                  "php",
+                  "reservation-system",
+                  "restaurant-management",
+                  "restaurant-menu",
+                  "table-booking",
+                  "tastyigniter"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -310,12 +602,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+                "homepage": "https://supabase.com",
                 "id": 214587193,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:23:40Z",
+                "open_issues": 1059,
                 "owner": "supabase",
                 "repo": "supabase",
-                "stars": 108539
+                "stars": 108545,
+                "topics": [
+                  "ai",
+                  "alternative",
+                  "auth",
+                  "database",
+                  "deno",
+                  "embeddings",
+                  "example",
+                  "firebase",
+                  "nextjs",
+                  "oauth2",
+                  "pgvector",
+                  "postgis",
+                  "postgres",
+                  "postgresql",
+                  "postgrest",
+                  "realtime",
+                  "supabase",
+                  "vectors",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -326,12 +643,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fancy self-hosted monitoring tool",
+                "homepage": "https://uptime.kuma.pet",
                 "id": 382496361,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T00:06:13Z",
+                "open_issues": 792,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90722
+                "stars": 90721,
+                "topics": [
+                  "docker",
+                  "monitor",
+                  "monitoring",
+                  "responsive",
+                  "self-hosted",
+                  "selfhosted",
+                  "single-page-app",
+                  "socket-io",
+                  "uptime",
+                  "uptime-monitoring",
+                  "webapp",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -342,12 +677,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source, Distributed, RESTful Search Engine",
+                "homepage": "https://www.elastic.co/products/elasticsearch",
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-28T23:52:01Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:36:17Z",
+                "open_issues": 5998,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77877
+                "stars": 77877,
+                "topics": [
+                  "elasticsearch",
+                  "java",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -358,12 +702,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+                "homepage": "https://grafana.com",
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:47:05Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:24:15Z",
+                "open_issues": 3317,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76465
+                "stars": 76465,
+                "topics": [
+                  "alerting",
+                  "analytics",
+                  "business-intelligence",
+                  "dashboard",
+                  "data-visualization",
+                  "elasticsearch",
+                  "go",
+                  "grafana",
+                  "hacktoberfest",
+                  "influxdb",
+                  "metrics",
+                  "monitoring",
+                  "mysql",
+                  "postgres",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -374,12 +739,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+                "homepage": "http://redis.io",
                 "id": 156018,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:39:35Z",
+                "open_issues": 2918,
                 "owner": "redis",
                 "repo": "redis",
-                "stars": 76134
+                "stars": 76135,
+                "topics": [
+                  "cache",
+                  "caching",
+                  "database",
+                  "distributed-systems",
+                  "in-memory",
+                  "in-memory-database",
+                  "json",
+                  "key-value",
+                  "key-value-store",
+                  "message-broker",
+                  "message-queue",
+                  "no-sql",
+                  "nosql",
+                  "open-source",
+                  "real-time",
+                  "realtime",
+                  "redis",
+                  "time-series",
+                  "vector-databases",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -390,12 +781,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Prometheus monitoring system and time series database.",
+                "homepage": "https://prometheus.io/",
                 "id": 6838921,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:51:00Z",
+                "open_issues": 879,
                 "owner": "prometheus",
                 "repo": "prometheus",
-                "stars": 65878
+                "stars": 65878,
+                "topics": [
+                  "alerting",
+                  "graphing",
+                  "hacktoberfest",
+                  "metrics",
+                  "monitoring",
+                  "prometheus",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -406,12 +810,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+                "homepage": "https://www.meilisearch.com",
                 "id": 130688011,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:07:01Z",
+                "open_issues": 318,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59117
+                "stars": 59118,
+                "topics": [
+                  "ai",
+                  "api",
+                  "app-search",
+                  "database",
+                  "enterprise-search",
+                  "faceting",
+                  "full-text-search",
+                  "fuzzy-search",
+                  "geosearch",
+                  "hybrid-search",
+                  "instantsearch",
+                  "search",
+                  "search-as-you-type",
+                  "search-engine",
+                  "semantic-search",
+                  "site-search",
+                  "typo-tolerance",
+                  "vector-database",
+                  "vector-search",
+                  "vectors"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -422,12 +852,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Kafka - A distributed event streaming platform",
+                "homepage": "https://kafka.apache.org/",
                 "id": 2211243,
                 "language": "Java",
-                "last_commit": "2026-08-28T22:41:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:28:18Z",
+                "open_issues": 516,
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33639
+                "stars": 33638,
+                "topics": [
+                  "java",
+                  "kafka",
+                  "scala",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -438,12 +878,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern replacement for Redis and Memcached",
+                "homepage": "https://www.dragonflydb.io/",
                 "id": 437245741,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:00:41Z",
+                "open_issues": 288,
                 "owner": "dragonflydb",
                 "repo": "dragonfly",
-                "stars": 31050
+                "stars": 31050,
+                "topics": [
+                  "cache",
+                  "cpp",
+                  "database",
+                  "fibers",
+                  "in-memory",
+                  "in-memory-database",
+                  "key-value",
+                  "keydb",
+                  "memcached",
+                  "message-broker",
+                  "multi-threading",
+                  "nosql",
+                  "redis",
+                  "valkey",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -454,12 +915,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like Prometheus, but for logs.",
+                "homepage": "https://grafana.com/oss/loki",
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-28T22:08:23Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:25:58Z",
+                "open_issues": 1729,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28798
+                "stars": 28799,
+                "topics": [
+                  "cloudnative",
+                  "grafana",
+                  "hacktoberfest",
+                  "logging",
+                  "loki",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -470,12 +943,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+                "homepage": "https://neon.tech",
                 "id": 351806852,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-25T13:07:37Z",
+                "open_issues": 557,
                 "owner": "neondatabase",
                 "repo": "neon",
-                "stars": 22982
+                "stars": 22983,
+                "topics": [
+                  "database",
+                  "postgres",
+                  "postgresql",
+                  "rust",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -486,12 +970,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins",
+                "homepage": "https://www.rabbitmq.com/",
                 "id": 924551,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:59:47Z",
+                "open_issues": 259,
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-server",
-                "stars": 13820
+                "stars": 13820,
+                "topics": [
+                  "amqp",
+                  "amqp-0-9-1",
+                  "amqp1-0",
+                  "message-broker",
+                  "messaging",
+                  "mqtt",
+                  "rabbitmq",
+                  "stomp",
+                  "streaming",
+                  "streams"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -502,12 +1002,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and open log management",
+                "homepage": "https://www.graylog.org",
                 "id": 671825,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:50:42Z",
+                "open_issues": 2057,
                 "owner": "Graylog2",
                 "repo": "graylog2-server",
-                "stars": 8119
+                "stars": 8120,
+                "topics": [
+                  "amqp",
+                  "gelf",
+                  "graylog",
+                  "hacktoberfest",
+                  "kafka",
+                  "log-analysis",
+                  "log-collector",
+                  "log-management",
+                  "log-viewer",
+                  "logging",
+                  "logging-server",
+                  "secure-logging",
+                  "security",
+                  "siem",
+                  "syslog"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -518,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vitess is a database clustering system for horizontal scaling of MySQL. This fork does not contain interesting changes - it's mostly the placeholder for PRs that PlanetScale maintainers cooperate on",
+                "homepage": "http://vitess.io",
                 "id": 133275023,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:05:13Z",
+                "open_issues": 0,
                 "owner": "planetscale",
                 "repo": "vitess",
-                "stars": 296
+                "stars": 296,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -541,12 +1067,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected environments.",
+                "homepage": "https://countly.com",
                 "id": 4473517,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:53:58Z",
+                "open_issues": 16,
                 "owner": "Countly",
                 "repo": "countly-server",
-                "stars": 5894
+                "stars": 5894,
+                "topics": [
+                  "ai",
+                  "analytics",
+                  "coppa",
+                  "crash-analytics",
+                  "customer-engagement",
+                  "dashboard",
+                  "data-ownership",
+                  "data-privacy",
+                  "digital-analytics",
+                  "feature-flags",
+                  "gdpr",
+                  "hipaa",
+                  "insights",
+                  "mobile-analytics",
+                  "push-notifications",
+                  "remote-configuration",
+                  "tracking",
+                  "user-feedback",
+                  "user-journeys",
+                  "web-analytics"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -557,12 +1109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search Engine Position Rank Tracking App",
+                "homepage": "https://docs.serpbear.com/",
                 "id": 570178488,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-14T07:30:56Z",
+                "open_issues": 71,
                 "owner": "towfiqi",
                 "repo": "serpbear",
-                "stars": 2064
+                "stars": 2064,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -573,12 +1130,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps",
+                "homepage": "https://aptabase.com",
                 "id": 618967657,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-13T07:35:17Z",
+                "open_issues": 59,
                 "owner": "aptabase",
                 "repo": "aptabase",
-                "stars": 1783
+                "stars": 1784,
+                "topics": [
+                  "analytics",
+                  "android",
+                  "electron",
+                  "flutter",
+                  "ios",
+                  "maui",
+                  "nativescript",
+                  "privacy",
+                  "react-native",
+                  "swift",
+                  "tauri"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -589,12 +1163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for app store optimization on iTunes and Google Play",
+                "homepage": null,
                 "id": 59616826,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-15T15:25:32Z",
+                "open_issues": 19,
                 "owner": "facundoolano",
                 "repo": "aso",
-                "stars": 860
+                "stars": 860,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -612,12 +1191,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GetCito the World's First Open Source AI Search Optimization (AIO) / Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO) and AI Visibility Tracking Tool.",
+                "homepage": "https://demo.getcito.com/",
                 "id": 1089029904,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T10:24:41Z",
+                "open_issues": 9,
                 "owner": "ai-search-guru",
                 "repo": "getcito-worlds-first-open-source-aio-aeo-or-geo-tool",
-                "stars": 174
+                "stars": 175,
+                "topics": [
+                  "ai-search-optimization",
+                  "ai-seo-tool",
+                  "ai-visibility",
+                  "ai-visibility-tracker",
+                  "ai-visibility-tracking",
+                  "answer",
+                  "answer-engine-optimization",
+                  "chatgpt",
+                  "claude",
+                  "generative-engine-optimization",
+                  "geo-optimization",
+                  "google-ai-overview",
+                  "llm-seo",
+                  "llmo",
+                  "marketing",
+                  "nextjs13",
+                  "open-source",
+                  "perplexity-ai",
+                  "seo"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -635,12 +1239,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+                "homepage": "https://tooljet.com",
                 "id": 352933140,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T22:52:19Z",
+                "open_issues": 1170,
                 "owner": "ToolJet",
                 "repo": "ToolJet",
-                "stars": 40787
+                "stars": 40787,
+                "topics": [
+                  "ai-app-builder",
+                  "docker",
+                  "hacktoberfest",
+                  "internal-applications",
+                  "internal-project",
+                  "internal-tool",
+                  "internal-tools",
+                  "javascript",
+                  "kubernetes",
+                  "low-code",
+                  "low-code-development-platform",
+                  "low-code-framework",
+                  "no-code",
+                  "nodejs",
+                  "reactjs",
+                  "self-hosted",
+                  "typescript",
+                  "web-development-tools",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -651,12 +1280,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+                "homepage": "https://www.appsmith.com",
                 "id": 275993885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T22:50:08Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:38:04Z",
+                "open_issues": 4470,
                 "owner": "appsmithorg",
                 "repo": "appsmith",
-                "stars": 40778
+                "stars": 40779,
+                "topics": [
+                  "admin-dashboard",
+                  "admin-panels",
+                  "app-builder",
+                  "automation",
+                  "crud",
+                  "custom-internal",
+                  "developer-tools",
+                  "gui",
+                  "gui-application",
+                  "hacktoberfest",
+                  "internal-tools",
+                  "java",
+                  "javascript",
+                  "low-code",
+                  "low-code-framework",
+                  "react",
+                  "self-hosted",
+                  "typescript",
+                  "webdevelopment",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -667,12 +1322,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI agents, automations and apps that run your operations. Model agnostic.",
+                "homepage": "https://budibase.com",
                 "id": 190729906,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T11:42:24Z",
+                "open_issues": 272,
                 "owner": "Budibase",
                 "repo": "budibase",
-                "stars": 28246
+                "stars": 28246,
+                "topics": [
+                  "ai-app-builder",
+                  "ai-applications",
+                  "crud-app",
+                  "crud-application",
+                  "data-application",
+                  "data-apps",
+                  "internal-tools",
+                  "it-workflows",
+                  "low-code",
+                  "low-code-no-code",
+                  "low-code-platform",
+                  "no-code",
+                  "no-code-platform",
+                  "open-source",
+                  "rest-api-framework",
+                  "sql-gui",
+                  "workflow-apps",
+                  "workflow-automation",
+                  "workflow-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -690,12 +1370,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure environments for developers and their agents",
+                "homepage": "https://coder.com",
                 "id": 440752086,
                 "language": "Go",
-                "last_commit": "2026-08-28T22:39:46Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:24:50Z",
+                "open_issues": 957,
                 "owner": "coder",
                 "repo": "coder",
-                "stars": 14290
+                "stars": 14294,
+                "topics": [
+                  "agents",
+                  "dev-tools",
+                  "development-environment",
+                  "go",
+                  "golang",
+                  "ide",
+                  "jetbrains",
+                  "remote-development",
+                  "terraform",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -706,12 +1402,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The developer platform for on-demand cloud development environments to create software faster and more securely.",
+                "homepage": "https://www.gitpod.io",
                 "id": 130879558,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-24T10:26:09Z",
+                "open_issues": 451,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13760
+                "stars": 13760,
+                "topics": [
+                  "cde",
+                  "cloud",
+                  "cloud-development",
+                  "cloud-development-environments",
+                  "cloud-ide",
+                  "code-review",
+                  "dev-environment",
+                  "developer-environment",
+                  "developer-experience",
+                  "disposable",
+                  "editor",
+                  "ephemeral",
+                  "gitpod",
+                  "ide",
+                  "jetbrains",
+                  "prebuilds",
+                  "remote-development",
+                  "remote-devtools",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             },
@@ -722,12 +1443,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An online IDE for rapid web development",
+                "homepage": "https://codesandbox.io",
                 "id": 77455983,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T13:13:18Z",
+                "open_issues": 613,
                 "owner": "codesandbox",
                 "repo": "codesandbox-client",
-                "stars": 13638
+                "stars": 13638,
+                "topics": [
+                  "angular",
+                  "codesandbox",
+                  "javascript",
+                  "preact",
+                  "react",
+                  "svelte",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:06:49.514Z"
             }
@@ -741,15 +1475,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:06:49.514Z",
+    "last_updated": "2026-08-29T04:56:53.478Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome SEO tools",
+      "homepage": "https://twitter.com/seclink",
       "id": 893488951,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-02-03T05:46:44Z",
+      "open_issues": 23,
       "owner": "XiaomingX",
       "repo": "awesome-seo-tools",
-      "stars": 126
+      "stars": 126,
+      "topics": [
+        "ahrefs",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "semrush",
+        "seo"
+      ]
     },
     "original_repository_sha": "e9ecc261d578afc1631dab5aba84389c4c95fae9",
     "enhanced_repository": "enhansome/enhansome-seo-tools",
